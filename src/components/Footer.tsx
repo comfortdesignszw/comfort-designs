@@ -1,4 +1,3 @@
-
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
@@ -39,7 +38,8 @@ const Footer = () => {
               <li>7 Elsley Road</li>
               <li>Queens Park West, Bulawayo</li>
               <li>Zimbabwe</li>
-              {/* You can add an email and phone if you'd like */}
+              <li>Email: comfort.designszw@gmail.com</li>
+              <li>Phone: +263772824132</li>
             </ul>
           </div>
         </div>
@@ -53,4 +53,3 @@ const Footer = () => {
 };
 
 export default Footer;
-
