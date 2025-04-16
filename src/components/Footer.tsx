@@ -1,4 +1,3 @@
-
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
@@ -7,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-lg font-semibold mb-4">EasyBuy</h3>
+            <h3 className="text-lg font-semibold mb-4">Comfort Designs</h3>
             <p className="text-gray-600 mb-4">
               Your one-stop shop for digital, physical products, services, and appointments.
             </p>
