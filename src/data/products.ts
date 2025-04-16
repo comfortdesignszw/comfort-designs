@@ -8,7 +8,7 @@ export const products: Product[] = [
     id: 'p1',
     name: 'Bluetooth Headphones',
     description: 'Premium wireless headphones with noise cancellation technology and long battery life.',
-    price: 129.99,
+    price: 10.00,
     type: 'physical',
     image: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3',
     category: 'Electronics',
@@ -18,39 +18,39 @@ export const products: Product[] = [
     id: 'p2',
     name: 'Smart Watch',
     description: 'Track your fitness, receive notifications, and more with this stylish smart watch.',
-    price: 199.99,
+    price: 15.00,
     type: 'physical',
     image: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3',
     category: 'Electronics'
   },
   {
     id: 'p3',
-    name: 'Organic Coffee Beans',
-    description: 'Premium, fair-trade organic coffee beans sourced from sustainable farms.',
-    price: 24.99,
+    name: 'CCTV Security System (Fix and Supply)',
+    description: 'We Supply Install and maintain CCTV and Security Systems, Gate Automations, Biometric Access Control and many more.',
+    price: 549.99,
     type: 'physical',
-    image: 'https://images.unsplash.com/photo-1611854779393-1b2da9d400fe?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3',
-    category: 'Food & Beverages'
+    image: 'https://www.istockphoto.com/photo/collection-of-different-control-recording-and-inspection-electronic-cameras-gm2190614774-608983037?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcctv-systems&utm_medium=affiliate&utm_source=unsplash&utm_term=cctv+systems%3A%3A%3A',
+    category: 'Electronics'
   },
   {
     id: 'p4',
-    name: 'Yoga Mat',
-    description: 'Professional non-slip yoga mat made from eco-friendly materials.',
-    price: 49.99,
+    name: 'Smart Phones',
+    description: 'Smart Phones comes with varieties from Samsung, Iphone, Redmi, Google Pixel, Huawei, and many more with variety price ranges.',
+    price: 120.00,
     type: 'physical',
-    image: 'https://images.unsplash.com/photo-1592432678016-e910b452f9a2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3',
-    category: 'Sports & Fitness'
+    image: 'https://unsplash.com/photos/a-group-of-cell-phones-sitting-on-top-of-a-table-NvM9V3mLrKs',
+    category: 'Electronics'
   },
   
   // Digital Products
   {
     id: 'd1',
-    name: 'Photo Editing Software',
-    description: 'Professional photo editing software with advanced features for photographers.',
-    price: 79.99,
+    name: 'Health and Wellness E-books',
+    description: 'Best Health and Wellness E-books with a step to step how to outlines on various aspects of your health and well-being.',
+    price: 11.99,
     type: 'digital',
-    image: 'https://images.unsplash.com/photo-1516542076529-1ea3854896f2?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3',
-    category: 'Software',
+    image: 'https://unsplash.com/photos/assorted-color-book-lot-g1fjFSWOnzc',
+    category: 'E-Books',
     featured: true
   },
   {
@@ -86,7 +86,7 @@ export const products: Product[] = [
     id: 's1',
     name: 'Website Design',
     description: 'Professional website design service customized to your business needs.',
-    price: 499.99,
+    price: 399.99,
     type: 'service',
     image: 'https://images.unsplash.com/photo-1614332287897-cdc485fa562d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3',
     category: 'Web Development',
@@ -96,7 +96,7 @@ export const products: Product[] = [
     id: 's2',
     name: 'Social Media Management',
     description: 'Monthly social media management service including content creation and analytics.',
-    price: 299.99,
+    price: 199.99,
     type: 'service',
     image: 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3',
     category: 'Marketing'
@@ -105,7 +105,7 @@ export const products: Product[] = [
     id: 's3',
     name: 'Logo Design',
     description: 'Custom logo design with unlimited revisions until you are satisfied.',
-    price: 149.99,
+    price: 49.99,
     type: 'service',
     image: 'https://images.unsplash.com/photo-1626785774573-4b799315345d?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3',
     category: 'Graphic Design'
