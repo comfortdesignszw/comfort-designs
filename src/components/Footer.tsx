@@ -1,3 +1,4 @@
+
 import { Link } from 'react-router-dom';
 
 const Footer = () => {
@@ -35,16 +36,16 @@ const Footer = () => {
           <div>
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-600">
-              <li>123 Commerce St.</li>
-              <li>Shopping City, ST 12345</li>
-              <li>support@easybuy.com</li>
-              <li>(123) 456-7890</li>
+              <li>7 Elsley Road</li>
+              <li>Queens Park West, Bulawayo</li>
+              <li>Zimbabwe</li>
+              {/* You can add an email and phone if you'd like */}
             </ul>
           </div>
         </div>
         
         <div className="border-t border-gray-200 mt-8 pt-8 text-center text-gray-500">
-          <p>&copy; {new Date().getFullYear()} EasyBuy. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Comfort Designs. All rights reserved.</p>
         </div>
       </div>
     </footer>
@@ -52,3 +53,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
