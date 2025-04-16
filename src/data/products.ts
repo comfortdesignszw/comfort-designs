@@ -49,7 +49,7 @@ export const products: Product[] = [
     description: 'Best Health and Wellness E-books with a step to step how to outlines on various aspects of your health and well-being.',
     price: 11.99,
     type: 'digital',
-    image: 'https://unsplash.com/photos/assorted-color-book-lot-g1fjFSWOnzc',
+    image: 'https://unsplash.com/photos/a-stack-of-books-sitting-on-top-of-each-other-kEMS85714ec',
     category: 'E-Books',
     featured: true
   },
