@@ -11,6 +11,7 @@ export interface Product {
   image: string;
   category: string;
   featured?: boolean;
+  downloadUrl?: string; // New field for digital products
 }
 
 // Cart Types
